@@ -1,0 +1,9 @@
+# Build artifacts
+obj/
+*.o
+*.exe
+ddp24
+
+# OCR working files
+*.txt
+*.png
