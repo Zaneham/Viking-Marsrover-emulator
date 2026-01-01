@@ -128,4 +128,4 @@ Available to discuss Martian computers over coffee. Will explain why 24-bit word
 
 ---
 
-*"The Viking landers transmitted from Mars for six years. Your laptop crashes if you open too many browser tabs. Progress is complicated."*
+*"The Viking landers transmitted from Mars for six years. Your laptop crashes if you open too many chrome tabs. Progress is complicated."*
