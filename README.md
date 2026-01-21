@@ -108,9 +108,9 @@ If you've enjoyed emulating the computers that landed on Mars, you might appreci
 
 - **[Minuteman Guidance Computer Emulator](https://github.com/Zaneham/minuteman-emu)** (the D17B/D37C that guides ICBMs. Same era, different trajectory. The Minuteman goes up; the Viking went sideways and then down. Both worked.)
 
-- **[Voyager Emulator](coming soon)** (the computers currently leaving the solar system. We're waiting on documentation from a university in Kansas. NASA lost their copies. We are not making this up.)
+- **[Voyager FDS Emulator](https://github.com/Zaneham/voyager-fds-emulator)** (the computers currently leaving the solar system. Documentation came from a university in Kansas. NASA lost their copies. Not making this up.)
 
-- **[HAL/S LSP](https://github.com/Zaneham/hals-lsp)** (language server for the Space Shuttle. The Shuttle came later but borrowed a lot of ideas. Mostly "don't crash.")
+- **[HAL/S LSP](https://github.com/Zaneham/hals-lsp)** (language server for the Space Shuttle's programming language. Real-time, redundant, and very particular about type safety.)
 
 ## Licence
 
